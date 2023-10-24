@@ -1,6 +1,8 @@
 ### Deno
 * [Instalación deno](https://docs.deno.com/runtime/manual/getting_started/installation)
 * [Crear proyecto](https://docs.deno.com/runtime/manual/tools/init)
+* [Plugin necesario para deno en vsc](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno)
+* [Habilitar deno en vsc](https://docs.deno.com/runtime/manual)
 * [Dotenv deno](https://deno.land/x/dotenv@v3.2.0)
 * [Configuración código base (create basic api)](https://blog.logrocket.com/how-to-create-rest-api-deno-postgres/)
 
